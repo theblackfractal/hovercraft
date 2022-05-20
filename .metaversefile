@@ -1,6 +1,6 @@
 {
   "name": "machinegunlambo",
-  "start_url": "machinegunlamboWBV.glb",
+  "start_url": "machinegunlamboWBV1.glb",
   "components": [
     {
       "key": "sit",
